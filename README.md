@@ -26,6 +26,7 @@ Kotlin 파일에서 annotationProcessor 를 만들고 싶은 경우 Kotlin poet(
 
 원 저작자는 MINDORKS NEXTGEN PRIVATE LIMITED 이며, 관련 소스는 Apache 2.0으로 배포되어 있고, 원 저작물에 대한 권한은 모두 원 저작자에게 있습니다.
 
+-
 
 ### License
 ```
